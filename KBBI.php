@@ -40,7 +40,6 @@
 <html lang="en-US">
 	<head>
 		<title><?php if ($searchword != "") {echo $searchword." - ";} ?>Kamus Besar Bahasa Indonesia</title>
-		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAN9JREFUOI1jZIACkcUtkgx/GW2Z/zMwMXJzqjOwsQgzYAH/GZj+Mv/6vfBZWOEFBgYGBha4zN//R5gYGJX+MzIwMHGyMTBycmDTDzHkF3M2AwMDGwMDAwMTTJCJgUkJpw40wMjGyorQRyEYNWAEG/D/P5wJT8qMDAwMdhIKDFzMrAwPGX8xfGT4i8NGRgZ3QSmGNnQDTAUkGMol9RkYGQlbzsTGgmnA9S/vfs9/d4dVkouHQZ5HAI8B/xn2PLz3DMMLX378Mlp9/2rcfxbG9wz//t/GacI/hn9MLL+OwLgAKkc4GvNT9GwAAAAASUVORK5CYII=" type="image/x-icon">
