@@ -1,6 +1,5 @@
 <?php 
-/**
- * Website: http://sourceforge.net/projects/simplehtmldom/
+/* Website: http://sourceforge.net/projects/simplehtmldom/
  * Acknowledge: Jose Solorzano (https://sourceforge.net/projects/php-html/)
  * Contributions by:
  *     Yousuke Kumakura (Attribute filters)
